@@ -1,0 +1,13 @@
+.card{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    width: 35%;
+}
+
+.card input{
+    font-size: 1.3rem;
+    outline: none;
+}
+
+.card button{
+    font-size: 1.4rem;
+}

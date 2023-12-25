@@ -1,0 +1,51 @@
+.saveBTN img{
+    width : 2.3rem;
+    margin-top: .2rem;
+}
+
+.saveBTN{
+    width : 4rem
+}
+
+.logo{
+    width: 2.6rem;
+}
+
+.logoText{
+    font-size: 2.4rem;
+}
+header{
+    background-color: #fff;
+    height: 8rem;
+}
+
+.sideBarPage img{
+    width: 2rem;
+}
+
+
+.theSaveForm{
+    height: 100vh;
+    width: 100%;
+    width: auto;
+    z-index: 100;
+    background-color: rgba(0, 0, 0, 0.434);
+}
+
+.theNaveImg{
+    width: 5rem !important;
+}
+
+.pageSection img{
+    width: 3.5rem !important;
+}
+
+.logRegbtn{
+    font-size: 1.5rem !important;
+}
+
+#theInputText{
+    font-size: 1.4rem;
+    width: 100%;
+    outline: none;
+}
